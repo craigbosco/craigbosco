@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @craigbosco
 - 👀 I’m interested in ML & AGI
-- 🌱 I’m currently learning Scheme & Opencog documentation
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PyTorch, Scheme & Opencog
+- 💞️ I’m looking to collaborate on Kaggle competitions
 - 📫 How to reach me: craigbosco@mac.com
 
 <!---
