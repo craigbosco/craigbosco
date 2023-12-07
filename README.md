@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @craigbosco
 - 👀 I’m interested in ML & AGI
-- 🌱 I’m currently learning Tensorflow, Scheme & Opencog
+- 🌱 I’m currently learning Rust & Tensorflow
 - 💞️ I’m looking to collaborate on Kaggle competitions
 - 📫 How to reach me: craigbosco@mac.com
 
